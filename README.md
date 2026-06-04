@@ -1,1 +1,2 @@
-# 42_minishell
+# minishell
+my little minishell by c
