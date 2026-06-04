@@ -105,5 +105,5 @@ make re
 ---
 
 ## 👥 개발자 및 기여
-- [kwanhokim]([https://github.com/kimkwanho](https://github.com/KKWANH))
+- [kwanhokim]((https://github.com/KKWANH))
 - [juhopark](https://github.com/juhpark)
